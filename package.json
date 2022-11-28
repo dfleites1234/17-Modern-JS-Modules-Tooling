@@ -19,6 +19,7 @@
   "dependencies": {
     "leaflet": "^1.9.3",
     "lodash-es": "^4.17.21",
-    "lodash.clonedeep": "^4.5.0"
+    "lodash.clonedeep": "^4.5.0",
+    "parcel": "^1.12.4"
   }
 }
